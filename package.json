@@ -1,0 +1,24 @@
+{
+  "name": "api's",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitthakur2002/Api-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ankitthakur2002/Api-s/issues"
+  },
+  "homepage": "https://github.com/ankitthakur2002/Api-s#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
